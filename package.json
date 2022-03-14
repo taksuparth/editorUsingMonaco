@@ -13,7 +13,7 @@
     "@types/react": "^16.9.34",
     "@types/react-dom": "^16.9.6",
     "antlr4": "^4.8.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "monaco-editor": "^0.20.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
